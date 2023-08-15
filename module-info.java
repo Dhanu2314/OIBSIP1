@@ -5,5 +5,6 @@
  * @author Dhanashri
  *
  */
-module GauessingGame {
+module OnlineExamination {
+	requires java.desktop;
 }
